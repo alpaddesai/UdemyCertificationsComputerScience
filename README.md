@@ -1,5 +1,7 @@
 # Udemy Certifications Computer Science
 
+![image](LearningSoftwareEng.jpg)
+
 ![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)
